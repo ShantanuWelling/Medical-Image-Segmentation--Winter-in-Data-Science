@@ -23,10 +23,10 @@ Here is the [3D U-Net implementation](https://github.com/ShantanuWelling/Medical
 Here is the [dataset](https://www.kaggle.com/datasets/awsaf49/brats20-dataset-training-validation) for 3D U-Net implementation.
 
 References:
--[2D U-Net Implementation by victortrigo](https://www.kaggle.com/code/victortrigo/u-net-brian-mri-segmentation/notebook)
--[AI for Medical Diagnosis, Coursera](https://www.coursera.org/learn/ai-for-medical-diagnosis)
--[AI for Medical Diagnosis, Coursera Implementation](https://github.com/amanchadha/coursera-ai-for-medicine-specialization)
--[A medical image segmentation method based on multi-dimensional statistical features](https://doi.org/10.3389/fnins.2022.1009581)
--[V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation](https://arxiv.org/abs/1606.04797)
--[Deep Neural Networks for Medical Image Segmentation](https://www.hindawi.com/journals/jhe/2022/9580991/)
--[3D U-Net Implementation by Ratislav](https://www.kaggle.com/code/rastislav/3d-mri-brain-tumor-segmentation-u-net)
+- [2D U-Net Implementation by victortrigo](https://www.kaggle.com/code/victortrigo/u-net-brian-mri-segmentation/notebook)
+- [AI for Medical Diagnosis, Coursera](https://www.coursera.org/learn/ai-for-medical-diagnosis)
+- [AI for Medical Diagnosis, Coursera Implementation](https://github.com/amanchadha/coursera-ai-for-medicine-specialization)
+- [A medical image segmentation method based on multi-dimensional statistical features](https://doi.org/10.3389/fnins.2022.1009581)
+- [V-Net: Fully Convolutional Neural Networks for Volumetric Medical Image Segmentation](https://arxiv.org/abs/1606.04797)
+- [Deep Neural Networks for Medical Image Segmentation](https://www.hindawi.com/journals/jhe/2022/9580991/)
+- [3D U-Net Implementation by Ratislav](https://www.kaggle.com/code/rastislav/3d-mri-brain-tumor-segmentation-u-net)
