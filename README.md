@@ -1,4 +1,4 @@
-# Medical-Image-Segmentation--Winter-in-Data-Science
+# Medical Image Segmentation, Winter in Data Science '22
 Brain Tumor Segmentation &amp; Detection using Multi-modal MRI scans with U-Net Architecture
 
 Week 1 & 2: Architecture review and research literature survey to choose problem statement and model.
